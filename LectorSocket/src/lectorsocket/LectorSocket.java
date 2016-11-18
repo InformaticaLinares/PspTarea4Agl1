@@ -16,7 +16,7 @@ import java.util.logging.Logger;
 public class LectorSocket {
 
     public static void main(String[] args) throws IOException {
-        
+        System.out.println("Hola lector");
     }
     
 }
